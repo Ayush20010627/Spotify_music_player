@@ -5,8 +5,8 @@ const CloudinaryUpload = ({setUrl, setName}) => {
     const uploadImageWidget = () => {
         let myUploadWidget = openUploadWidget(
             {
-                cloudName: "denibitqt",
-                uploadPreset: "ayushitm",
+                cloudName: "create security key",
+                uploadPreset: "use your id",
                 sources: ["local"],
             },
             function (error, result) {
